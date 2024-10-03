@@ -25,6 +25,5 @@
             <a href="HS24510097_Lakna Janavie Manimel Wadu.pdf" download="HS24510097_Lakna Janavie Manimel Wadu.pdf" class="btn">Download Resume</a>
         </div>
     
-   
-        </section>  
+</section>  
 </body>
